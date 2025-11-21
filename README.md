@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm <b>LALITH KOTA</b></h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LalithKota&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Building+MERN+Apps+%26+AI+Projects;Passionate+Coder+%7C+Deep+Learner" />
 </p>
 
