@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <b>LALITH KOTA</b></h1>
 
-<!--
-**kotalalith/kotalalith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LalithKota&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=28&color=00AEEF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Building+MERN+Apps+%26+AI+Projects;Passionate+Coder+%7C+Deep+Learner" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🎓 B.Tech in Information Technology (2023–2027)  
+- 💡 Passionate about **MERN Development**, **ML Projects**, and **AI Tools**  
+- 🤖 Built **FinTrack**, **Spam Classifier**, **Offline Chatbot**, **E-Commerce App**  
+- 🔥 Exploring **AI Agents, LLMs, and Full-Stack Development**  
+- 🚀 Always learning and building something new
+
+---
+
+# 🛠️ Tech Stack (With Icons)
+
+### 🧑‍💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c" />
+</p>
+
+### 🎨 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+
+### ⚙️ **Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,mysql" />
+</p>
+
+
+### 🧰 **Tools & Platforms**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 **FinTrack – Smart Expense Tracker (MERN + AI)**
+AI savings suggestions + voice assistant + charts  
+🔗 *Coming Soon*
+
+### 🔹 **AI-Based Spam Classifier**
+Kaggle dataset + ML model + Flask UI  
+🔗 *Coming Soon*
+
+### 🔹 **Offline Chatbot (React + Ollama)**
+Local LLM chatbot with no internet needed  
+🔗 *Coming Soon*
+
+### 🔹 **E-Commerce Shopping Cart System**
+Basic MERN shopping cart with auth  
+🔗 *Coming Soon*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LalithKota&show_icons=true&theme=tokyonight" height="175px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LalithKota&layout=compact&theme=tokyonight" height="175px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/kotalalith"><img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/"><img src="https://skillicons.dev/icons?i=linkedin"/>
+</p>
+
+---
+
+<p align="center"><b>🔥 Consistency + Curiosity = Growth</b></p>
