@@ -99,11 +99,10 @@ Basic MERN shopping cart with auth
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
+<p>
   <a href="https://github.com/kotalalith">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
