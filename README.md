@@ -41,7 +41,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Software & AI Projects
 
 ### 🔹 **FinTrack – Smart Expense Tracker (MERN + AI)**
 AI savings suggestions + voice assistant + charts  
@@ -59,6 +59,34 @@ Local LLM chatbot with no internet needed
 Basic MERN shopping cart with auth  
 🔗 *Coming Soon*
 
+## 📌 Featured Projects
+
+<details>
+  <summary><b>🌾 Crop-Connect – Smart Agriculture Platform</b></summary>
+  <br>
+  Crop-Connect is an intelligent agriculture support system that connects farmers, buyers, and resources.  
+  It helps track crop health, market prices, and provides AI-powered recommendations for better yield.
+  <br><br>
+
+  **🚀 Features**
+  - Real-time crop data tracking  
+  - AI insights for better crop decisions  
+  - Buyer–farmer digital marketplace  
+  - Secure user login and dashboards  
+  - Mobile-responsive UI  
+
+  **🛠️ Tech Stack:** MERN Stack, React, Node.js, MongoDB, Express, Chart.js  
+</details>
+
+<details>
+  <summary><b>🎁 Surprise Project – Coming Soon </b></summary>
+  <br>
+  A new intelligent system currently under development.  
+  More details will be added after release! 🚀✨
+
+  **Status:** Under Development  
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -72,8 +100,13 @@ Basic MERN shopping cart with auth
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/kotalalith"><img src="https://skillicons.dev/icons?i=github"/>
-  <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/"><img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://github.com/kotalalith">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
