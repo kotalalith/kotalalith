@@ -1,3 +1,7 @@
+<p align="center">
+  <!-- Replace with the raw URL of the banner you upload to your repo -->
+  <img src="BANNER_RAW_URL" alt="LALITH KOTA Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm <b>LALITH KOTA</b></h1>
 
 <p align="center">
@@ -43,21 +47,78 @@
 
 ## 📌 Software & AI Projects
 
-### 🔹 **FinTrack – Smart Expense Tracker (MERN + AI)**
-AI savings suggestions + voice assistant + charts  
-🔗 *Coming Soon*
+---
 
-### 🔹 **AI-Based Spam Classifier**
-Kaggle dataset + ML model + Flask UI  
-🔗 *Coming Soon*
+###  **FinTrack – Smart Expense Tracker (MERN + AI)**  
+<div style="border: 2px solid #3b82f6; border-radius: 10px; padding: 15px;">
 
-### 🔹 **Offline Chatbot (React + Ollama)**
-Local LLM chatbot with no internet needed  
-🔗 *Coming Soon*
+🚀 **FinTrack** is an AI-powered expense tracker built to simplify money management with smart automation and analytics.
 
-### 🔹 **E-Commerce Shopping Cart System**
-Basic MERN shopping cart with auth  
-🔗 *Coming Soon*
+**🔹 Key Features**
+- GPT-based Smart Saving Suggestions  
+- Voice assistant for hands-free expense entry  
+- Real-time analytics & charts  
+- Secure backend & responsive UI  
+
+**🛠 Tech Stack:** React, Node.js, Express, MongoDB, Chart.js, GPT  
+**📌 Status:** Near complete  
+
+</div>
+
+---
+
+###  **AI-Based Spam Classifier**  
+<div style="border: 2px solid #22c55e; border-radius: 10px; padding: 15px;">
+
+ML pipeline that accurately detects SMS spam using classical machine learning models.
+
+**🔹 Key Features**
+- TF-IDF vectorization  
+- Naive Bayes & SVM classification  
+- Flask UI for real-time predictions  
+
+**🛠 Tech Stack:** Python, Scikit-learn, Pandas, Flask  
+**📌 Status:** Completed  
+
+</div>
+
+---
+
+###  **Offline Chatbot (React + Ollama)**  
+<div style="border: 2px solid #f97316; border-radius: 10px; padding: 15px;">
+
+A privacy-first AI chatbot that runs fully **offline** using local LLMs powered by Ollama.
+
+**🔹 Key Features**
+- 100% offline LLM inference  
+- Modern React chat interface  
+- Smooth real-time message flow  
+
+**🛠 Tech Stack:** React, JavaScript, Ollama  
+**📌 Status:** Completed  
+
+</div>
+
+---
+
+###  **E-Commerce Shopping Cart System (MERN)**  
+<div style="border: 2px solid #a855f7; border-radius: 10px; padding: 15px;">
+
+A functional e-commerce prototype covering essential shopping cart features.
+
+**🔹 Key Features**
+- Product listing & add-to-cart  
+- JWT authentication  
+- Test payments (Stripe test mode)  
+- Admin product management  
+
+**🛠 Tech Stack:** MERN, JWT, Stripe (Test Mode)  
+**📌 Status:** Near complete  
+
+</div>
+
+---
+
 
 ## 📌 Featured Projects
 
@@ -88,6 +149,12 @@ Basic MERN shopping cart with auth
 </details>
 
 ---
+## 🏆 Achievements
+- Selected for **Smart India Hackathon (SIH)** — Phase-2 selected team  
+- **Top-5** in college hackathon (consolation award)  
+- **Patent Application:** *Integrated Crop Monitoring & Farmer-Market Connectivity Platform* (App ID: **202541043259**) — Under Review
+
+---
 
 ## 📊 GitHub Stats
 
@@ -100,14 +167,9 @@ Basic MERN shopping cart with auth
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://github.com/kotalalith">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="https://github.com/kotalalith"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/kota-lalith-aditya-gupta-28a372366/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:kotaadityagupta@email.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
-
----
 
 <p align="center"><b>🔥 Consistency + Curiosity = Growth</b></p>
