@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace with the raw URL of the banner you upload to your repo -->
-  <img src="BANNER_RAW_URL" alt="LALITH KOTA Banner" width="100%" />
+  <img src="banner.svg" alt="LALITH KOTA Banner" width="100%" />
 </p>
 <h1 align="center">👋 Hi, I'm <b>LALITH KOTA</b></h1>
 
